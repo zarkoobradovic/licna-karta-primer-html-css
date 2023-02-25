@@ -1,1 +1,1 @@
-# licna-karta-primer
+# licna-karta-primer-html-css
